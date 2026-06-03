@@ -14,7 +14,7 @@ I build practical web systems, internal tools, dashboards, productivity platform
 
 ---
 
-## Positioning
+## Professional Summary
 
 I am a BS Information Technology graduate from the Philippines, focused on building software that connects **development, business, operations, and user experience**.
 
