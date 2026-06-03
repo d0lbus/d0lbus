@@ -203,18 +203,6 @@ For private projects, I use public showcase repositories or case study materials
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0lbus&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lbus&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
